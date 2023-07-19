@@ -643,7 +643,11 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
-
+.project-tilte
+{
+  text-align: center;
+  font-size: 24px;
+}
 
 /*--------------------------------------------------------------
 # Breadcrumbs
